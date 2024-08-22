@@ -31,3 +31,4 @@ C:\Users\alexr\OneDrive\Documents\Web Project\Progi\progi-car-app\VehiculeFeesCa
 C:\Users\alexr\OneDrive\Documents\Web Project\Progi\progi-car-app\VehiculeFeesCalculator\obj\Debug\net8.0\VehiculeFeesCalculator.pdb
 C:\Users\alexr\OneDrive\Documents\Web Project\Progi\progi-car-app\VehiculeFeesCalculator\obj\Debug\net8.0\VehiculeFeesCalculator.genruntimeconfig.cache
 C:\Users\alexr\OneDrive\Documents\Web Project\Progi\progi-car-app\VehiculeFeesCalculator\obj\Debug\net8.0\ref\VehiculeFeesCalculator.dll
+C:\Users\alexr\OneDrive\Documents\Web Project\Progi\progi-car-app\VehiculeFeesCalculator\obj\Debug\net8.0\VehiculeFeesCalculator.sourcelink.json

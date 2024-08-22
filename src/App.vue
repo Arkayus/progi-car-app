@@ -2,6 +2,7 @@
   <div id="app">
     <nav>
       <router-link to="/">Home</router-link>
+      <br>
       <router-link to="/price-check">Price Check</router-link>
     </nav>
     <router-view></router-view>
